@@ -21,11 +21,11 @@
 #   ]
 standalone_tags:
   [
-    {id: 20, size: 0.065, name: STOP}
-    {id: 74, size: 0.065, name: Semaphore}
-    {id: 96, size: 0.065, name: SLOW}
-    {id: 6, size: 0.065, name: one_way_right}
-    {id: 7, size: 0.065, name: one_way_left}
+    {id: 20, size: 0.065, name: STOP},
+    {id: 74, size: 0.065, name: Semaphore},
+    {id: 96, size: 0.065, name: SLOW},
+    {id: 6, size: 0.065, name: one_way_right},
+    {id: 7, size: 0.065, name: one_way_left},
     {id: 2, size: 0.065, name: YIELD}
   ]
 # ## Tag bundle definitions
